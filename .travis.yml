@@ -11,3 +11,5 @@ after_success:
 addons:
   sonarcloud:
     organization: 3kent  
+    token:
+      secure: "f6dbcbcf413d502a3ffe1984f0807c927bd38e70"
